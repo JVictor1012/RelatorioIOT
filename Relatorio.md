@@ -58,8 +58,10 @@ A seguir 3 exemplos de atividades que foram realizadas dentro do curso.
     ![overview athena](./images/lab-2-overview.png)
 
     - Criação de tabelas e colunas:
+    ![bucket2](./images/Captura%20de%20Tela%20(56).png)
 
     - Selecionando o dataset, no caso nosso bucket S3:
+    ![bucket2](./images/Captura%20de%20Tela%20(55).png)
 
 
        
@@ -118,6 +120,19 @@ Após o término do curso, podem ser destacadas as principais lições que foram
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 # Referências
